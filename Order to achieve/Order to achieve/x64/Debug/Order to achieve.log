@@ -1,0 +1,9 @@
+﻿  Order to achieve.c
+D:\C++\Data structure\linear list\Order to achieve\Order to achieve\Operate.h(22,44): warning C4311: “类型强制转换”: 从“void *”到“int”的指针截断
+D:\C++\Data structure\linear list\Order to achieve\Order to achieve\Operate.h(24,11): warning C4098: “Initlist_sq”:“void”函数返回值
+D:\C++\Data structure\linear list\Order to achieve\Order to achieve\Operate.h(58,38): warning C4098: “InsertElem”:“void”函数返回值
+D:\C++\Data structure\linear list\Order to achieve\Order to achieve\Operate.h(59,40): warning C4098: “InsertElem”:“void”函数返回值
+D:\C++\Data structure\linear list\Order to achieve\Order to achieve\Operate.h(63,11): warning C4098: “InsertElem”:“void”函数返回值
+D:\C++\Data structure\linear list\Order to achieve\Order to achieve\Operate.h(67,38): warning C4098: “DeleteElem”:“void”函数返回值
+D:\C++\Data structure\linear list\Order to achieve\Order to achieve\Operate.h(70,11): warning C4098: “DeleteElem”:“void”函数返回值
+  Order to achieve.vcxproj -> D:\C++\Data structure\linear list\Order to achieve\x64\Debug\Order to achieve.exe
